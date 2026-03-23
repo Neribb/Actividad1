@@ -1,4 +1,4 @@
-package com.example.calcualdora;
+package com.example.calculadora;
 import java.util.Stack;
 
 public class CalculadoraLogica implements ICalculadora {

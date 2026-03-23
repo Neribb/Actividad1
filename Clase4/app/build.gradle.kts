@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.calculadora"
+    namespace = "com.example.clase4"
     compileSdk {
         version = release(36) {
             minorApiLevel = 1
@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.example.calcualdora"
+        applicationId = "com.example.clase4"
         minSdk = 24
         targetSdk = 36
         versionCode = 1

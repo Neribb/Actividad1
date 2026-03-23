@@ -1,6 +1,6 @@
-package com.example.calcualdora;
+package com.example.calculadora;
 
 public interface ICalculadora {
-    double calcular(double a, double b, Operador op);
-    double resolverCadena(String expresion);
+    double realizarOperacion(double a, double b, Operador op);
+    double resolverExpresion(String expresion);
 }

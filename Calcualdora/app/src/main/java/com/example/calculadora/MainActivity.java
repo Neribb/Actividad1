@@ -1,9 +1,11 @@
-package com.example.calcualdora;
+package com.example.calculadora;
 
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.example.calculadora.R;
 
 public class MainActivity extends AppCompatActivity {
 

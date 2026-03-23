@@ -1,10 +1,10 @@
-package com.example.calcualdora;
+package com.example.calculadora;
 
 public enum Operador {
     SUMA("+",1),
     RESTA("-", 1),
     MULTIPLICACION("*",2),
-    DIVISON("/", 2);
+    DIVISION("/", 2);
 
     private final String simbolo;
     private final  int jerarquia;
